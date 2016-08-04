@@ -4,7 +4,7 @@
 [![Coveralls](https://img.shields.io/coveralls/ndfront/es5-shim-sham-merge.svg?style=flat-square)](https://github.com/ndfront/es5-shim-sham-merge)
 [![NPM version](https://img.shields.io/npm/v/es5-shim-sham-merge.svg?style=flat-square)](https://npmjs.org/package/es5-shim-sham-merge)
 
-> 请求url，支持ie8+
+> Combine package es5-shim with es5-sham
 
 ## 安装
 
